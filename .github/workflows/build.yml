@@ -32,6 +32,7 @@ jobs:
         base_image:
           - bazzite-deck
           - bazzite-deck-gnome
+          - bazzite-gnome-nvidia
           - bazzite-deck-nvidia-gnome
           - bazzite-deck-nvidia
 
